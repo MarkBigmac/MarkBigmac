@@ -1,7 +1,5 @@
 [![Head](https://i.postimg.cc/25GC4tZf/1.png)](https://github.com/TechnoLoshara) 
 
-<img src="https://raw.githubusercontent.com/TechnoLoshara/TechnoLoshara/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
